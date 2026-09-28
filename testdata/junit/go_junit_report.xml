@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite tests="2" failures="1" time="0.031" name="github.com/example/pkg">
+    <testcase classname="github.com/example/pkg" name="TestAdd" time="0.010"/>
+    <testcase classname="github.com/example/pkg" name="TestSub" time="0.021">
+      <failure message="Failed">--- FAIL: TestSub (0.02s)&#10;    pkg_test.go:20: got 1 want 2</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,11 @@
+{
+  "reportFormat": "CTRF",
+  "specVersion": "1.0.0",
+  "results": {
+    "tool": {"name": "custom-runner"},
+    "summary": {"tests": 1, "passed": 1, "failed": 0, "skipped": 0, "pending": 0, "other": 0, "start": 1700000002000, "stop": 1700000002600},
+    "tests": [
+      {"name": "testFlaky", "status": "passed", "duration": 600, "suite": ["com.example.FooTest"]}
+    ]
+  }
+}

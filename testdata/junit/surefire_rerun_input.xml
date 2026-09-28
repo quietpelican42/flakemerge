@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.StillBrokenTest" tests="1" failures="1" errors="0" skipped="0" time="0.9">
+  <testcase classname="com.example.StillBrokenTest" name="testNeverPasses" time="0.4">
+    <rerunFailure message="attempt 1 failed" type="java.lang.AssertionError">
+      <stackTrace>attempt 1 trace</stackTrace>
+    </rerunFailure>
+    <failure message="attempt 2 failed" type="java.lang.AssertionError">attempt 2 trace</failure>
+  </testcase>
+</testsuite>

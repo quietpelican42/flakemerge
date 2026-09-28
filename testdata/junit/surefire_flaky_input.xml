@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.RetryTest" tests="1" failures="0" errors="0" skipped="0" time="0.9">
+  <testcase classname="com.example.RetryTest" name="testEventuallyPasses" time="0.4">
+    <flakyFailure message="timeout" type="java.net.SocketTimeoutException">
+      <stackTrace>at com.example.RetryTest.testEventuallyPasses(RetryTest.java:9)</stackTrace>
+    </flakyFailure>
+  </testcase>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="pytest" errors="0" failures="1" skipped="1" tests="3" time="0.045" timestamp="2026-09-28T10:00:00">
+    <testcase classname="tests.test_api" name="test_get" time="0.010"/>
+    <testcase classname="tests.test_api" name="test_post" time="0.020">
+      <failure message="assert 500 == 200">Traceback (most recent call last): ...</failure>
+    </testcase>
+    <testcase classname="tests.test_api" name="test_delete" time="0.000">
+      <skipped message="not implemented yet" type="pytest.skip"/>
+    </testcase>
+  </testsuite>
+</testsuites>

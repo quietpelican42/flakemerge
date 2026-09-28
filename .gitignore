@@ -1,0 +1,6 @@
+/flakemerge
+/cmd/flakemerge/flakemerge
+*.test
+coverage.out
+coverage.html
+/.testdata-cache/

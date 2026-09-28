@@ -1,0 +1,5 @@
+{
+  "reportFormat": "CTRF",
+  "results": {
+    "tests": [
+      {"name": "testX", "status":

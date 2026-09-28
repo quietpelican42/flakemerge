@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="jest tests">
+  <testsuite name="Widget" tests="1" failures="0" errors="0" time="0.201">
+    <testcase classname="Widget renders" name="renders without crashing" time="0.201"/>
+  </testsuite>
+</testsuites>
