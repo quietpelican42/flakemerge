@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/flakemerge
+module github.com/quietpelican42/flakemerge
 
 go 1.23

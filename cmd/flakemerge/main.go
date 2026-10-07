@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/__GH_OWNER__/flakemerge"
+	"github.com/quietpelican42/flakemerge"
 )
 
 const usage = `flakemerge merges JUnit XML or CTRF JSON test reports from repeated CI

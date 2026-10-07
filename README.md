@@ -88,10 +88,10 @@ premise that this is unhandled held up.
 ## Installation
 
 ```sh
-go install github.com/__GH_OWNER__/flakemerge/cmd/flakemerge@latest
+go install github.com/quietpelican42/flakemerge/cmd/flakemerge@latest
 ```
 
-Or as a library: `go get github.com/__GH_OWNER__/flakemerge`.
+Or as a library: `go get github.com/quietpelican42/flakemerge`.
 
 ## Usage
 
